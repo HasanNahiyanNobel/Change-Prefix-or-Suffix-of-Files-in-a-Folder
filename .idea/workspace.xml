@@ -20,17 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a694140-b764-4de3-9448-4f4bdbc6ef07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.misc.xml.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.misc_LOCAL_1478.xml.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.misc_REMOTE_1478.xml.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc_BACKUP_1478.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc_BASE_1478.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc_LOCAL_1478.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc_REMOTE_1478.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Change Prefix or Suffix of Files in a Folder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Change Prefix or Suffix of Files in a Folder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +38,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dfd3684fb3b886cb064e94679cfdf341919bd094" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,8 +77,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GUI.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,7 +87,57 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.GUI">
+    <configuration name="Change Prefix or Suffix of Files in a Folder" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Remove Prefix from Filename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Projects\Change Prefix or Suffix of Files in a Folder\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Change Prefix or Suffix of Files in a Folder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Remove Prefix from Filename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Projects\Change Prefix or Suffix of Files in a Folder\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Change Prefix or Suffix of Files in a Folder" />
+      <item itemvalue="Python.GUI" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -103,6 +153,11 @@
       <workItem from="1616668679630" duration="5450000" />
       <workItem from="1616815834078" duration="1902000" />
       <workItem from="1616817833391" duration="2005000" />
+      <workItem from="1616820228792" duration="905000" />
+      <workItem from="1616821464003" duration="77000" />
+      <workItem from="1616822073774" duration="6000" />
+      <workItem from="1616823541479" duration="45000" />
+      <workItem from="1616825812528" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="Switched to Python.">
       <created>1616211253784</created>
@@ -158,7 +213,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Switched to Python." />
     <MESSAGE value="আপাতত এই কাজ বন্ধ করছি।" />
@@ -169,75 +223,41 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="515" y="256" width="433" height="328" key="#Markdown" timestamp="1616819078222">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616826023439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="515" y="256" width="433" height="328" key="#Markdown/0.0.1366.728@0.0.1366.728" timestamp="1616819078222" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616817952277">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616826023439" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1616826021612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616817952277" />
-    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1616674164226">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616826021612" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1616826415695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1616674164226" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1616818513613">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616826415695" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1616826415695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1616818513613" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1616817925471">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616826415695" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1616826415694">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616817925471" />
-    <state x="140" y="66" key="Git.Interactive.Rebase.Dialog" timestamp="1616818878636">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616826415694" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1616826415695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="140" y="66" key="Git.Interactive.Rebase.Dialog/0.0.1366.728@0.0.1366.728" timestamp="1616818878636" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1616817755653">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616826415695" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1616823582950">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616817755653" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1616817755653">
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616823582950" />
+    <state x="369" y="97" key="VcsDiffUtil.ChangesDialog" timestamp="1616826074122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616817755653" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1616817755653">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616817755653" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1616817755653">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616817755653" />
-    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1616818889351">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1616818889351" />
-    <state x="183" y="3" key="SettingsEditor" timestamp="1616817933279">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="183" y="3" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616817933279" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1616817653214">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616817653214" />
-    <state x="369" y="97" key="VcsDiffUtil.ChangesDialog" timestamp="1616818751949">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="369" y="97" key="VcsDiffUtil.ChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1616818751949" />
-    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616818719132">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1616818719132" />
-    <state x="442" y="276" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1616818910966">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="442" y="276" key="git4idea.rebase.GitUnstructuredEditor/0.0.1366.728@0.0.1366.728" timestamp="1616818910966" />
+    <state x="369" y="97" key="VcsDiffUtil.ChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1616826074122" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Change_Prefix_or_Suffix_of_Files_in_a_Folder$Change_Prefix_or_Suffix_of_Files_in_a_Folder__1_.coverage" NAME="Change Prefix or Suffix of Files in a Folder (1) Coverage Results" MODIFIED="1616673761971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Remove_Prefix_from_Filename$remove_prefix_copy_of.coverage" NAME="remove_prefix_copy_of Coverage Results" MODIFIED="1616212011379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Change_Prefix_or_Suffix_of_Files_in_a_Folder$Change_Prefix_or_Suffix_of_Files_in_a_Folder.coverage" NAME="Change Prefix or Suffix of Files in a Folder Coverage Results" MODIFIED="1616817262665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Change_Prefix_or_Suffix_of_Files_in_a_Folder$remove_prefix_copy_of.coverage" NAME="Change Prefix or Suffix of Files in a Folder Coverage Results" MODIFIED="1616674020909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Change_Prefix_or_Suffix_of_Files_in_a_Folder$Change_Prefix_or_Suffix_of_Files_in_a_Folder.coverage" NAME="Change Prefix or Suffix of Files in a Folder Coverage Results" MODIFIED="1616825856086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Change_Prefix_or_Suffix_of_Files_in_a_Folder$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1616826435796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
