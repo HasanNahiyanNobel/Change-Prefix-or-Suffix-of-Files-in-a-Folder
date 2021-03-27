@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a694140-b764-4de3-9448-4f4bdbc6ef07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Change Prefix or Suffix of Files in a Folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dfd3684fb3b886cb064e94679cfdf341919bd094" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Switched to Python." />
+        <option name="rewordedMessage" value="Now it can add a prefix to filenames in a directory." />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="fad3b76fb5c0f4e501d3095c002fe97c2244c565" />
+  </component>
+  <component name="ProjectId" id="1q0KH7aKVGk5igcm99seoJZ3xXv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a694140-b764-4de3-9448-4f4bdbc6ef07" name="Default Changelist" comment="" />
+      <created>1616210976307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616210976307</updated>
+      <workItem from="1616211024539" duration="1219000" />
+      <workItem from="1616668679630" duration="5450000" />
+      <workItem from="1616815834078" duration="1902000" />
+      <workItem from="1616817833391" duration="616000" />
+    </task>
+    <task id="LOCAL-00001" summary="Switched to Python.">
+      <created>1616211253784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616211253785</updated>
+    </task>
+    <task id="LOCAL-00002" summary="আপাতত এই কাজ বন্ধ করছি।">
+      <created>1616212103837</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616212103837</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Now it can add a prefix to filenames in a directory.">
+      <created>1616674012341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616674012341</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added functionality to add and/or remove prefix/or suffix.">
+      <created>1616817171112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616817171112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Switched to Python." />
+    <MESSAGE value="আপাতত এই কাজ বন্ধ করছি।" />
+    <MESSAGE value="Now it can add a prefix to filenames in a directory." />
+    <MESSAGE value="Added functionality to add and/or remove prefix/or suffix." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functionality to add and/or remove prefix/or suffix." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="256" width="433" height="328" key="#Markdown" timestamp="1616817738241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="515" y="256" width="433" height="328" key="#Markdown/0.0.1366.728@0.0.1366.728" timestamp="1616817738241" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616817952277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616817952277" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1616674164226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1616674164226" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1616817168887">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1616817168887" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1616817925471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616817925471" />
+    <state x="175" y="47" key="Git.Interactive.Rebase.Dialog" timestamp="1616674143243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="47" key="Git.Interactive.Rebase.Dialog/0.0.1366.728@0.0.1366.728" timestamp="1616674143243" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1616817755653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616817755653" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1616817755653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616817755653" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1616817755653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616817755653" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1616817755653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616817755653" />
+    <state x="183" y="3" key="SettingsEditor" timestamp="1616817933279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="3" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616817933279" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1616817653214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616817653214" />
+    <state x="369" y="97" key="VcsDiffUtil.ChangesDialog" timestamp="1616669092605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="369" y="97" key="VcsDiffUtil.ChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1616669092605" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Change_Prefix_or_Suffix_of_Files_in_a_Folder$Change_Prefix_or_Suffix_of_Files_in_a_Folder__1_.coverage" NAME="Change Prefix or Suffix of Files in a Folder (1) Coverage Results" MODIFIED="1616673761971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Remove_Prefix_from_Filename$remove_prefix_copy_of.coverage" NAME="remove_prefix_copy_of Coverage Results" MODIFIED="1616212011379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Change_Prefix_or_Suffix_of_Files_in_a_Folder$Change_Prefix_or_Suffix_of_Files_in_a_Folder.coverage" NAME="Change Prefix or Suffix of Files in a Folder Coverage Results" MODIFIED="1616817262665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Change_Prefix_or_Suffix_of_Files_in_a_Folder$remove_prefix_copy_of.coverage" NAME="Change Prefix or Suffix of Files in a Folder Coverage Results" MODIFIED="1616674020909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
